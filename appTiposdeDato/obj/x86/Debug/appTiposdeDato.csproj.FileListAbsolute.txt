@@ -1,0 +1,8 @@
+F:\desarrollo2DaniloDuran\17 de octubre\soluciones_D_danilo\appTiposdeDato\bin\Debug\appTiposdeDato.exe
+F:\desarrollo2DaniloDuran\17 de octubre\soluciones_D_danilo\appTiposdeDato\bin\Debug\appTiposdeDato.pdb
+F:\desarrollo2DaniloDuran\17 de octubre\soluciones_D_danilo\appTiposdeDato\obj\x86\Debug\appTiposdeDato.formulariodetipos.resources
+F:\desarrollo2DaniloDuran\17 de octubre\soluciones_D_danilo\appTiposdeDato\obj\x86\Debug\appTiposdeDato.Properties.Resources.resources
+F:\desarrollo2DaniloDuran\17 de octubre\soluciones_D_danilo\appTiposdeDato\obj\x86\Debug\appTiposdeDato.csproj.GenerateResource.Cache
+F:\desarrollo2DaniloDuran\17 de octubre\soluciones_D_danilo\appTiposdeDato\obj\x86\Debug\appTiposdeDato.exe
+F:\desarrollo2DaniloDuran\17 de octubre\soluciones_D_danilo\appTiposdeDato\obj\x86\Debug\appTiposdeDato.pdb
+F:\desarrollo2DaniloDuran\17 de octubre\soluciones_D_danilo\appTiposdeDato\obj\x86\Debug\appTiposdeDato.Form2.resources

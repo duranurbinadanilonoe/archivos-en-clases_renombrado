@@ -1,0 +1,5 @@
+F:\desarrollo2DaniloDuran\17 de octubre\soluciones_D_danilo\app_consola01\bin\Debug\app_consola01.exe
+F:\desarrollo2DaniloDuran\17 de octubre\soluciones_D_danilo\app_consola01\bin\Debug\app_consola01.pdb
+F:\desarrollo2DaniloDuran\17 de octubre\soluciones_D_danilo\app_consola01\obj\x86\Debug\app_consola01.csprojResolveAssemblyReference.cache
+F:\desarrollo2DaniloDuran\17 de octubre\soluciones_D_danilo\app_consola01\obj\x86\Debug\app_consola01.exe
+F:\desarrollo2DaniloDuran\17 de octubre\soluciones_D_danilo\app_consola01\obj\x86\Debug\app_consola01.pdb

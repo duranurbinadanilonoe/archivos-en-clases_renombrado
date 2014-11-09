@@ -1,0 +1,7 @@
+F:\desarrollo2DaniloDuran\17 de octubre\soluciones_D_danilo\app_grafica001\bin\Debug\app_grafica001.exe
+F:\desarrollo2DaniloDuran\17 de octubre\soluciones_D_danilo\app_grafica001\bin\Debug\app_grafica001.pdb
+F:\desarrollo2DaniloDuran\17 de octubre\soluciones_D_danilo\app_grafica001\obj\x86\Debug\app_grafica001.Properties.Resources.resources
+F:\desarrollo2DaniloDuran\17 de octubre\soluciones_D_danilo\app_grafica001\obj\x86\Debug\app_grafica001.csproj.GenerateResource.Cache
+F:\desarrollo2DaniloDuran\17 de octubre\soluciones_D_danilo\app_grafica001\obj\x86\Debug\app_grafica001.exe
+F:\desarrollo2DaniloDuran\17 de octubre\soluciones_D_danilo\app_grafica001\obj\x86\Debug\app_grafica001.pdb
+F:\desarrollo2DaniloDuran\17 de octubre\soluciones_D_danilo\app_grafica001\obj\x86\Debug\app_grafica001.miformulario.resources

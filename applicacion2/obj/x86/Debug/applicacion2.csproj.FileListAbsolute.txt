@@ -1,0 +1,4 @@
+F:\desarrollo2DaniloDuran\17 de octubre\soluciones_D_danilo\applicacion2\bin\Debug\applicacion2.exe
+F:\desarrollo2DaniloDuran\17 de octubre\soluciones_D_danilo\applicacion2\bin\Debug\applicacion2.pdb
+F:\desarrollo2DaniloDuran\17 de octubre\soluciones_D_danilo\applicacion2\obj\x86\Debug\applicacion2.exe
+F:\desarrollo2DaniloDuran\17 de octubre\soluciones_D_danilo\applicacion2\obj\x86\Debug\applicacion2.pdb
